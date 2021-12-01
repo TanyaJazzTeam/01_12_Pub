@@ -42,10 +42,6 @@ msgstr "AMP HTML Specification"
 msgid "AMP Overview"
 msgstr "AMP Overview"
 
-#: /views/partials/format-visuals/websites.j2:32
-msgid "A website screenshot. nononon"
-msgstr "A website screenshot.lololo"
-
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
 msgstr "AMP for Email Specification"
