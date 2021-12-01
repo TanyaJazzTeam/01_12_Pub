@@ -25,6 +25,7 @@ which can cause your page to [render in unexpected ways](https://quirks.spec.wha
 {% include 'content/lighthouse-best-practices/scoring.njk' %}
 
 ## How to add a doctype declaration
+# 01.12.2021
 
 Add the `<!DOCTYPE html>` declaration to the top of your HTML document:
 
