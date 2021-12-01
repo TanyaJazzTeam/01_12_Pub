@@ -10,4 +10,5 @@ my:
       cream:
         - sugar
         - milk
+        - drink
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
