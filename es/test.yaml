@@ -1,21 +1,40 @@
-﻿ball:
-  - between
-  - [[[important, false, movement, bare, true, true, climate, again, false, true], cake, false, false, nice, false, true, false, false, quick], false, when, nails, port, true, band, true, true, false]
-  - according
+---
+ball:
+- between
+- - - - important
+      - false
+      - movement
+      - bare
+      - true
+      - true
+      - climate
+      - again
+      - false
+      - true
+    - cake
+    - false
+    - false
+    - nice
+    - false
+    - true
+    - false
+    - false
+    - quick
+  - false
+  - when
+  - nails
+  - port
+  - true
+  - band
+  - true
   - true
   - false
-  - century
-  - sliva
-  - false
-  - victory
-  - false
-  - attack
-right: false
-remain: grew
-creature: roll
-smooth: false
-tight: true
-stuck: science
-political: electric
-themselves: quiet
-red: willing
+- according
+- true
+- false
+- century
+- sliva
+- 'false'
+- victory
+- 'false'
+- attack
