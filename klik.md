@@ -38,7 +38,6 @@ Add the `<!DOCTYPE html>` declaration to the top of your HTML document:
 See MDN's [Doctype](https://developer.mozilla.org/docs/Glossary/Doctype)
 page for more information.
 
-## Resources
 
 - [Source code for **Page lacks the HTML doctype, thus triggering quirks mode** audit](https://github.com/GoogleChrome/lighthouse/blob/ecd10efc8230f6f772e672cd4b05e8fbc8a3112d/lighthouse-core/audits/dobetterweb/doctype.js)
 - [Doctype](https://developer.mozilla.org/docs/Glossary/Doctype)
