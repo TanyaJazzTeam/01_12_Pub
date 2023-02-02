@@ -101,6 +101,12 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 
 ### Development
 
+## alt
+The metrics that make up Core Web Vitals will [evolve](#evolving-web-vitals)
+over time. The current set for 2020 focuses on three aspects of the user
+experience—_loading_, _interactivity_, and _visual stability_—and includes the
+following metrics
+
 Want to contribute? Great!
 
 Dillinger uses Gulp + Webpack for fast developing.
