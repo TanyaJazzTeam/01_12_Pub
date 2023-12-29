@@ -3,6 +3,7 @@
     {
       "materic": "Europa",
       "country": "Weißrussland",
+      "population": "9,5 Millionen",
       "CityCapital": "Minsk"
     },
     {
@@ -12,8 +13,10 @@
       "CityCapital": "Peking"
     },
     {
+      "materic": "Australien",
       "country": "Australien",
-      "population": "24,6 Millionen"
+      "population": "24,6 Millionen",
+      "CityCapital": "Canberra"
     },
     {
       "materic": "Afrika",
